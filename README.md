@@ -1,5 +1,5 @@
 # Vae
-Theory Video: 
+Theory Video:  \n
 Data:
 Checkpoint:
 
